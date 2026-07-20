@@ -4,7 +4,9 @@
     display: flex;
     justify-content: space-between;
     padding-inline: 16px;
-    background-color: rgb(240, 176, 96);
+    background-color: rgb(169, 209, 252);
+    border-radius: 0 0 20% 20%;
+    color: rgb(0, 44, 46);
 
 }
 
